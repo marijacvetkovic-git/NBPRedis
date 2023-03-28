@@ -1,0 +1,8 @@
+fali:
+profil:
+    klasikica funkcije za korisnika(brisanje i update)
+    izadje koja se knjiga trenutno cita
+spisak knjiga koje je procitao:
+    za svaku poziv na anketu i druge informacije o knjigama
+chat room:
+    iskopiraj odnekle hehe
