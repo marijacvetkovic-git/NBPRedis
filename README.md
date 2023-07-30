@@ -30,7 +30,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 # IMPORTANT
 - To see how admin works, please log in with username: admin and password: 123. 
-- To see user page and how it works either sign up, or login as username: peca, password: peca123
+- To see user page and how it works either sign up or login as username: peca, password: peca123
 ## SignUp
 ![1](https://user-images.githubusercontent.com/101969164/228328911-9ef3262a-0ad7-4e7d-b64c-6bd7fe10be16.jpg)
 ## SignIn
